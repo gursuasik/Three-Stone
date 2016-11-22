@@ -1,0 +1,61 @@
+D:\Documents\Works\Vsual Studio\C#\Three Stone\Three Stone\bin\Debug\Three Stone.exe
+D:\Documents\Works\Vsual Studio\C#\Three Stone\Three Stone\bin\Debug\Three Stone.pdb
+D:\Documents\Works\Vsual Studio\C#\Three Stone\Three Stone\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents\Works\Vsual Studio\C#\Three Stone\Three Stone\obj\x86\Debug\Three_Stone.Form1.resources
+D:\Documents\Works\Vsual Studio\C#\Three Stone\Three Stone\obj\x86\Debug\Three_Stone.Properties.Resources.resources
+D:\Documents\Works\Vsual Studio\C#\Three Stone\Three Stone\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Documents\Works\Vsual Studio\C#\Three Stone\Three Stone\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Documents\Works\Vsual Studio\C#\Three Stone\Three Stone\obj\x86\Debug\Three Stone.exe
+D:\Documents\Works\Vsual Studio\C#\Three Stone\Three Stone\obj\x86\Debug\Three Stone.pdb
+D:\Documents\Works\Visual Studio\C#\Three Stone\Three Stone\obj\x86\Debug\Three Stone.exe
+D:\Documents\Works\Visual Studio\C#\Three Stone\Three Stone\obj\x86\Debug\Three Stone.pdb
+D:\Documents\Works\Visual Studio\C#\Three Stone\Three Stone\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents\Works\Visual Studio\C#\Three Stone\Three Stone\obj\x86\Debug\Three_Stone.Form1.resources
+D:\Documents\Works\Visual Studio\C#\Three Stone\Three Stone\obj\x86\Debug\Three_Stone.Properties.Resources.resources
+D:\Documents\Works\Visual Studio\C#\Three Stone\Three Stone\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Documents\Works\Visual Studio\C#\Three Stone\Three Stone\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Documents\Works\Visual Studio\C#\Three Stone\Three Stone\bin\Debug\Three Stone.exe
+D:\Documents\Works\Visual Studio\C#\Three Stone\Three Stone\bin\Debug\Three Stone.pdb
+C:\Users\Public\Works\Visual Studio\C#\Three Stone\Three Stone\obj\x86\Debug\Three Stone.exe
+C:\Users\Public\Works\Visual Studio\C#\Three Stone\Three Stone\bin\Debug\Three Stone.exe
+C:\Users\Public\Works\Visual Studio\C#\Three Stone\Three Stone\bin\Debug\Three Stone.pdb
+C:\Users\Public\Works\Visual Studio\C#\Three Stone\Three Stone\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Public\Works\Visual Studio\C#\Three Stone\Three Stone\obj\x86\Debug\Three_Stone.Form1.resources
+C:\Users\Public\Works\Visual Studio\C#\Three Stone\Three Stone\obj\x86\Debug\Three_Stone.Properties.Resources.resources
+C:\Users\Public\Works\Visual Studio\C#\Three Stone\Three Stone\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Public\Works\Visual Studio\C#\Three Stone\Three Stone\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Public\Works\Visual Studio\C#\Three Stone\Three Stone\obj\x86\Debug\Three Stone.pdb
+D:\Documents\Edit\Documents\Works\Visual Studio\C#\Three Stone\Three Stone\obj\x86\Debug\Three Stone.exe
+D:\Documents\Edit\Documents\Works\Visual Studio\C#\Three Stone\Three Stone\obj\x86\Debug\Three Stone.pdb
+D:\Documents\Edit\Documents\Works\Visual Studio\C#\Three Stone\Three Stone\bin\Debug\Three Stone.exe
+D:\Documents\Edit\Documents\Works\Visual Studio\C#\Three Stone\Three Stone\bin\Debug\Three Stone.pdb
+D:\Documents\Edit\Documents\Works\Visual Studio\C#\Three Stone\Three Stone\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents\Edit\Documents\Works\Visual Studio\C#\Three Stone\Three Stone\obj\x86\Debug\Three_Stone.Form1.resources
+D:\Documents\Edit\Documents\Works\Visual Studio\C#\Three Stone\Three Stone\obj\x86\Debug\Three_Stone.Properties.Resources.resources
+D:\Documents\Edit\Documents\Works\Visual Studio\C#\Three Stone\Three Stone\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Documents\Edit\Documents\Works\Visual Studio\C#\Three Stone\Three Stone\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Documents\Edit\Documents\Works\Visual Studio\C#\Windows\Windows Form Aplication\Three Stone\Three Stone\obj\x86\Debug\Three Stone.exe
+D:\Documents\Edit\Documents\Works\Visual Studio\C#\Windows\Windows Form Aplication\Three Stone\Three Stone\obj\x86\Debug\Three Stone.pdb
+D:\Documents\Edit\Documents\Works\Visual Studio\C#\Windows\Windows Form Aplication\Three Stone\Three Stone\bin\Debug\Three Stone.exe
+D:\Documents\Edit\Documents\Works\Visual Studio\C#\Windows\Windows Form Aplication\Three Stone\Three Stone\bin\Debug\Three Stone.pdb
+D:\Documents\Edit\Documents\Works\Visual Studio\C#\Windows\Windows Form Aplication\Three Stone\Three Stone\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents\Edit\Documents\Works\Visual Studio\C#\Windows\Windows Form Aplication\Three Stone\Three Stone\obj\x86\Debug\Three_Stone.Form1.resources
+D:\Documents\Edit\Documents\Works\Visual Studio\C#\Windows\Windows Form Aplication\Three Stone\Three Stone\obj\x86\Debug\Three_Stone.Properties.Resources.resources
+D:\Documents\Edit\Documents\Works\Visual Studio\C#\Windows\Windows Form Aplication\Three Stone\Three Stone\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Documents\Edit\Documents\Works\Visual Studio\C#\Windows\Windows Form Aplication\Three Stone\Three Stone\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Documents\Edit\Works\Visual Studio\C#\Windows\Windows Form Aplication\Three Stone\Three Stone\obj\x86\Debug\Three Stone.exe
+D:\Documents\Edit\Works\Visual Studio\C#\Windows\Windows Form Aplication\Three Stone\Three Stone\obj\x86\Debug\Three Stone.pdb
+D:\Documents\Edit\Works\Visual Studio\C#\Windows\Windows Form Aplication\Three Stone\Three Stone\bin\Debug\Three Stone.exe
+D:\Documents\Edit\Works\Visual Studio\C#\Windows\Windows Form Aplication\Three Stone\Three Stone\bin\Debug\Three Stone.pdb
+D:\Documents\Edit\Works\Visual Studio\C#\Windows\Windows Form Aplication\Three Stone\Three Stone\obj\x86\Debug\Three Stone.csprojResolveAssemblyReference.cache
+D:\Documents\Edit\Works\Visual Studio\C#\Windows\Windows Form Aplication\Three Stone\Three Stone\obj\x86\Debug\Three_Stone.Form1.resources
+D:\Documents\Edit\Works\Visual Studio\C#\Windows\Windows Form Aplication\Three Stone\Three Stone\obj\x86\Debug\Three_Stone.Properties.Resources.resources
+D:\Documents\Edit\Works\Visual Studio\C#\Windows\Windows Form Aplication\Three Stone\Three Stone\obj\x86\Debug\Three Stone.csproj.GenerateResource.Cache
+D:\Documents\Works\Visual Studio\C#\Windows\Windows Forms Application\Three Stone\Three Stone\obj\x86\Debug\Three Stone.exe
+D:\Documents\Works\Visual Studio\C#\Windows\Windows Forms Application\Three Stone\Three Stone\obj\x86\Debug\Three Stone.pdb
+D:\Documents\Works\Visual Studio\C#\Windows\Windows Forms Application\Three Stone\Three Stone\bin\Debug\Three Stone.exe
+D:\Documents\Works\Visual Studio\C#\Windows\Windows Forms Application\Three Stone\Three Stone\bin\Debug\Three Stone.pdb
+D:\Documents\Works\Visual Studio\C#\Windows\Windows Forms Application\Three Stone\Three Stone\obj\x86\Debug\Three Stone.csprojResolveAssemblyReference.cache
+D:\Documents\Works\Visual Studio\C#\Windows\Windows Forms Application\Three Stone\Three Stone\obj\x86\Debug\Three_Stone.Form1.resources
+D:\Documents\Works\Visual Studio\C#\Windows\Windows Forms Application\Three Stone\Three Stone\obj\x86\Debug\Three_Stone.Properties.Resources.resources
+D:\Documents\Works\Visual Studio\C#\Windows\Windows Forms Application\Three Stone\Three Stone\obj\x86\Debug\Three Stone.csproj.GenerateResource.Cache
